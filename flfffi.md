@@ -1,2 +1,2 @@
-# Fast Learn, Fast Faile, Fast Improve
+# Fast Learn, Fast Fail, Fast Improve
 ---
